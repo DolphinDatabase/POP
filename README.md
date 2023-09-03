@@ -34,7 +34,7 @@ To access our *prototype*, click [here](#).
 
 To access our project playlist, click [here](#):
 
-[<img src="https://user-images.githubusercontent.com/74321890/228991716-687c07f9-3b6a-4cea-b855-677b51b2b20a.svg" width="60%" height="60%">](# "pop demonstration video")
+[<img src="" width="60%" height="60%">](# "pop demonstration video")
 
 ## User Manual
 
