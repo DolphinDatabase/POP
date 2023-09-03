@@ -18,7 +18,7 @@
 ## Description
 
 <p align="justify">
-Cloud-In software is an orchestrator application for automatically transferring files between online storage systems. Through its minimalist and interactive interface, the user can register his credentials and configure transfers as needed, starting the download and upload journey between the storages.
+
 
 ## Client
 
