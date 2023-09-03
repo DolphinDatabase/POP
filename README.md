@@ -78,11 +78,11 @@ To access our project playlist, click [here](#):
 ## Members
 
  - Betriz Medeiros (PO)
- - Pedro Motta (SM)
+ - Victor Cavichioli (SM)
+ - Pedro Motta (DEV)
  - Hamilton Zanini (DEV)
- - Marcos Calixto
+ - Marcos Kisto (DEV)
  - Renata Garcia (DEV)
- - Victor Cavichioli (DEV)
  
 For more information[^2], click [here](https://github.com/DolphinDatabase/Cloud-In/wiki/Development-Team).
 
