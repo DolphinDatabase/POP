@@ -65,6 +65,11 @@ To access our project playlist, click [here](#):
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Github Actions Pipeline
 - [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Helm Chart Configuration
 
+## Technologies
+
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" alt="badge"> <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=for-the-badge" alt="badge">  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MYSQL&logoColor=white&style=for-the-badge" alt="badge">
+<img src="https://img.shields.io/badge/-MongoDB-4479A1?logo=MongoDB&logoColor=white&style=for-the-badge" alt="badge">
+
 ## Members
 
  - Betriz Medeiros (PO)
