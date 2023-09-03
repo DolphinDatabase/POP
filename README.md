@@ -90,8 +90,8 @@ For more information[^2], click [here](https://github.com/DolphinDatabase/Cloud-
 
 | Date | Event |
 | -------| --------- |
-| 13/02 a 03/03 | Kick-off. |
-| 23/03 a 02/04 | [Sprint 1](#) |
+| 21/08 a 25/08 | Kick-off. |
+| 04/09 a 24/09 | [Sprint 1](#) |
 | 03/04 a 23/04 | [Sprint 2](#) |
 | 24/04 a 14/05 | [Sprint 3](#) |
 | 15/05 a 04/06 | [Sprint 4](#) |
