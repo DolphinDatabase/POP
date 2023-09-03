@@ -9,6 +9,7 @@
 - [Client](#client)
 - [Illustration of Features](#illustration-of-features)
 - [Demonstration](#demonstration)
+- [User Manual](#user-manual)
 - [Sprint Epic](#sprint-epic)
 - [Product Backlog](#product-backlog)
 - [Technologies](#technologies)
@@ -34,6 +35,10 @@ To access our *prototype*, click [here](#).
 To access our project playlist, click [here](#):
 
 [<img src="https://user-images.githubusercontent.com/74321890/228991716-687c07f9-3b6a-4cea-b855-677b51b2b20a.svg" width="60%" height="60%">](# "pop demonstration video")
+
+## User Manual
+
+![ALERTA](https://github.com/beamedeiros/bertoti/assets/74321890/b90c3f94-83ca-4791-8756-d1c33794c1d4) Para acessar o manual do usuário, clique [aqui](#).
 
 ## Sprint Epic
 
