@@ -81,7 +81,7 @@ To access our project playlist, click [here](#):
  - Victor Cavichioli (SM)
  - Pedro Motta (DEV)
  - Hamilton Zanini (DEV)
- - Marcos Kisto (DEV)
+ - Marcos Calixto (DEV)
  - Renata Garcia (DEV)
  
 For more information[^2], click [here](https://github.com/DolphinDatabase/Cloud-In/wiki/Development-Team).
