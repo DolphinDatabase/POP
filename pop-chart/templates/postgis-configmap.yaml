@@ -1,0 +1,28 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: postgres-env
+data:
+    - name: POSTGRES_USER
+        value: "postgres"
+    - name: POSTGRES_PASSWORD
+        valueFrom:
+        secretKeyRef:
+            name: postgres-secrets
+            key: postgresql-password
+    - name: POSTGRES_DB
+        value: {{ .Values.global.database.postgres_db }}
+    - name: POSTGRESQL_LOG_HOSTNAME
+        value: {{ .Values.global.database.postgres_log_hostname }}
+    - name: POSTGRESQL_LOG_CONNECTIONS
+        value: {{ .Values.global.database.postgresql_log_connections }}
+    - name: POSTGRESQL_LOG_DISCONNECTIONS
+        value: {{ .Values.global.database.postgresql_log_disconnections }}
+    - name: POSTGRESQL_PGAUDIT_LOG_CATALOG
+        value: {{ .Values.global.database.postgresql_pgaudit_log_catalog }}
+    - name: POSTGRESQL_CLIENT_MIN_MESSAGES
+        value: {{ .Values.global.database.postgresql_client_min_messages }}
+    - name: POSTGRESQL_SHARED_PRELOAD_LIBRARIES
+        value: {{ .Values.global.database.postgresql_shared_preload_libraries }}
+    - name: POSTGRESQL_ENABLE_TLS
+        value: {{ .Values.global.database.postgresql_enable_tls }}

@@ -1,0 +1,19 @@
+apiVersion: v2
+name: dolphin-data-observation-platform
+version: 1.0.0
+kubeVersion: "1.26+"
+description: Predictive Observation Platform
+keywords:
+  - Proagro
+  - Time-Series
+home: https://github.com/DolphinDatabase/POP
+sources:
+  - https://github.com/DolphinDatabase/POP-backend/tree/main
+  - https://github.com/DolphinDatabase/POP-frontend/tree/main
+maintainers:
+  - name: Victor Cavichioli
+    email: vivictoraraujo@hotmail.com
+    url: https://github.com/VictorCavichioli
+icon: A URL to an SVG or PNG image to be used as an icon (optional).
+appVersion: 1.0.0
+deprecated: False

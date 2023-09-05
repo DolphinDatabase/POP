@@ -1,0 +1,46 @@
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: postgis
+  labels:
+    app: database
+spec:
+  selector:
+    matchLabels:
+      app: postgis
+  updateStrategy:
+    type: RollingUpdate
+  replicas: 1
+
+  template:
+    metadata:
+      name: postgis-pod
+      labels:
+        app: postgis
+    spec:
+      containers:
+        - name: postgis
+          image: postgis/postgis:11-3.3
+          ports:
+            - containerPort: 5432
+          envFrom:
+            - configMapRef:
+                name: postgres-env
+      volumeMounts:
+        - name: postgresql-db-disk
+          mountPath: /data
+      volumes:
+        - name: postgresql-db-disk
+          persistentVolumeClaim:
+            claimName: postgresql-db-disk
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: postgresql-db-disk
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 25Gi
