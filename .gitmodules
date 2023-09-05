@@ -1,6 +1,0 @@
-[submodule "POP-frontend"]
-	path = POP-frontend
-	url = https://github.com/DolphinDatabase/POP-frontend
-[submodule "POP-backend"]
-	path = POP-backend
-	url = https://github.com/DolphinDatabase/POP-backend
