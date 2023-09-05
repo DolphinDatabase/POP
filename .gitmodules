@@ -1,0 +1,3 @@
+[submodule "POP-frontend"]
+	path = POP-frontend
+	url = https://github.com/DolphinDatabase/POP-frontend
