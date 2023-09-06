@@ -1,7 +1,6 @@
 apiVersion: v2
 name: dolphin-data-observation-platform
 version: 1.0.0
-kubeVersion: "1.26+"
 description: Predictive Observation Platform
 keywords:
   - Proagro
