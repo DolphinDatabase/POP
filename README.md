@@ -1,5 +1,6 @@
-<img src="https://github.com/DolphinDatabase/POP/assets/74321890/fdfe5651-ce55-4ef0-9a1c-095ae7b8217c" align="center"/>
-
+<div align="center">
+<img src="https://github.com/DolphinDatabase/POP/assets/74321890/3e9a2e2e-ed97-4375-827e-3c523a3b06f0"/>
+</div>
 <br/>
 
 ![Badge](https://img.shields.io/badge/STATUS-IN_PROGREES-yellow?style=flat-square&logo=)
