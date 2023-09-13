@@ -87,7 +87,7 @@ To access our project playlist, click [here](#):
  - Marcos Calixto (DEV)
  - Renata Garcia (DEV)
  
-For more information[^2], click [here](https://github.com/DolphinDatabase/Cloud-In/wiki/Development-Team).
+For more information[^2], click [here](https://github.com/DolphinDatabase/POP/wiki/Development-Team).
 
 ## Schedule of API
 
