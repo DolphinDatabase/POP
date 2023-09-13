@@ -33,6 +33,27 @@ spec:
         - name: postgresql-db-disk
           persistentVolumeClaim:
             claimName: postgresql-db-disk
+
+---
+apiVersion: storage.k8s.io/v1
+kind: StorageClass
+metadata:
+  name: azurefile
+provisioner: kubernetes.io/azure-file
+
+---
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  nem: postgress-pv
+spec:
+  capacity:
+    storage: 20Gi
+  accessModes:
+    - ReadWriteOnce
+  persistentVolumeReclaimPolicy: Retain
+  storageClassName: azurefile
+
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
@@ -43,4 +64,4 @@ spec:
     - ReadWriteOnce
   resources:
     requests:
-      storage: 25Gi
+      storage: 10Gi

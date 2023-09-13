@@ -4,11 +4,10 @@ metadata:
   name: postgres-headless-svc
 spec:
   type: LoadBalancer
-  clusterIP: None
   ports:
   - name: postgresql
     port: 5432
-    targetPort: postgresql
+    targetPort: 5432
     protocol: TCP 
   selector:
     app: database
