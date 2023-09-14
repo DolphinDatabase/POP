@@ -2,19 +2,14 @@ apiVersion: apps/v1
 kind: StatefulSet
 metadata:
   name: postgis
-  labels:
-    app: database
 spec:
+  serviceName: postgis-service
+  replicas: 1
   selector:
     matchLabels:
       app: postgis
-  updateStrategy:
-    type: RollingUpdate
-  replicas: 1
-
   template:
     metadata:
-      name: postgis-pod
       labels:
         app: postgis
     spec:
@@ -25,35 +20,14 @@ spec:
             - containerPort: 5432
           envFrom:
             - configMapRef:
-                name: postgres-env
-      volumeMounts:
-        - name: postgresql-db-disk
-          mountPath: /data
+                name: postgres-env        
+          volumeMounts:
+            - name: postgresql-db-disk
+              mountPath: /data
       volumes:
         - name: postgresql-db-disk
           persistentVolumeClaim:
             claimName: postgresql-db-disk
-
----
-apiVersion: storage.k8s.io/v1
-kind: StorageClass
-metadata:
-  name: azurefile
-provisioner: kubernetes.io/azure-file
-
----
-apiVersion: v1
-kind: PersistentVolume
-metadata:
-  nem: postgress-pv
-spec:
-  capacity:
-    storage: 20Gi
-  accessModes:
-    - ReadWriteOnce
-  persistentVolumeReclaimPolicy: Retain
-  storageClassName: azurefile
-
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
