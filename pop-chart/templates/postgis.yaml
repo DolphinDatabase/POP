@@ -3,7 +3,7 @@ kind: StatefulSet
 metadata:
   name: postgis
 spec:
-  serviceName: postgis-service
+  serviceName: postgis-service-cip
   replicas: 1
   selector:
     matchLabels:
@@ -39,4 +39,4 @@ spec:
   resources:
     requests:
       storage: 10Gi
-  storageClassName: azurefile
+  storageClassName: my-azurefile

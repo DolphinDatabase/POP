@@ -4,7 +4,7 @@ metadata:
   name: postgres-env
 data:
   POSTGRES_USER: "postgres"
-  POSTGRES_PASSWORD: "{{ .Values.global.database.postgresql_password: }}"
+  POSTGRES_PASSWORD: "{{ .Values.global.database.postgresql_password }}"
   POSTGRES_DB: "{{ .Values.global.database.postgres_db }}"
   POSTGRESQL_LOG_HOSTNAME: "{{ .Values.global.database.postgres_log_hostname }}"
   POSTGRESQL_LOG_CONNECTIONS: "{{ .Values.global.database.postgresql_log_connections }}"
