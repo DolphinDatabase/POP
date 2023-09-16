@@ -39,4 +39,4 @@ spec:
   resources:
     requests:
       storage: 10Gi
-  storageClassName: azurefile
+  storageClassName: my-azurefile
