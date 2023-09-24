@@ -11,7 +11,7 @@ The objective of this sprint was to extract and process proagro data, model a re
   
 ## Story Cards
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/Cloud-In/assets/58821700/d6913e4b-be1c-4049-a261-ecd743d9f1e1"/>
+  <img src="https://github.com/DolphinDatabase/POP/assets/74321890/09092d3e-26dc-43e4-ba87-6ab574e82f86"/>
 </p>
 
 ## Developed Features
