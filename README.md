@@ -72,8 +72,7 @@ To access our project playlist, click [here](https://www.youtube.com/watch?v=-L3
 
 ## Technologies
 
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" alt="badge"> <img src="https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white&style=for-the-badge" alt="badge">  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MYSQL&logoColor=white&style=for-the-badge" alt="badge">
-<img src="https://img.shields.io/badge/-MongoDB-4479A1?logo=MongoDB&logoColor=white&style=for-the-badge" alt="badge">
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" alt="badge"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="badge">  <img src="https://img.shields.io/badge/-PostgreSQL-4479A1?logo=PostgreSQL&logoColor=white&style=for-the-badge" alt="badge">
 
 ## Members
 
