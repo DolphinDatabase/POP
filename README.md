@@ -38,7 +38,7 @@ To access our *prototype*, click [here](https://www.figma.com/proto/shKA1LHprYPa
 
 To access our project playlist, click [here](https://www.youtube.com/watch?v=-L3xjt2aHUY&list=PLUOBqJKbljZvDd8dOXBFlEHLtTTWCrRLk):
 
-[<img src="https://www.youtube.com/watch?v=-L3xjt2aHUY&list=PLUOBqJKbljZvDd8dOXBFlEHLtTTWCrRLk" width="60%" height="60%">](# "pop demonstration video")
+[<img src="https://github.com/DolphinDatabase/POP/assets/74321890/1930571b-dd33-4331-8624-17867451e940" width="60%" height="60%">](https://www.youtube.com/watch?v=-L3xjt2aHUY&list=PLUOBqJKbljZvDd8dOXBFlEHLtTTWCrRLk "pop demonstration video")
 
 ## Sprint Epic
 
