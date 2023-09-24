@@ -23,8 +23,8 @@
 ## Description
 
 <p align="justify">
-
-
+POP is a platform for monitoring agricultural activities registered in Proagro. Furthermore, the system has prediction tools that aim to help the user in decision-making.
+ 
 ## Client
 
 <p align="justify">
@@ -32,17 +32,13 @@ Resulting from a unique initiative by the Brazilian Government to encourage the 
 
 ## Illustration of Features
 
-To access our *prototype*, click [here](#).
+To access our *prototype*, click [here](https://www.figma.com/proto/shKA1LHprYPaQMTiWkr1v5/pop.-(Fatec)?page-id=18%3A132&type=design&node-id=39-6&viewport=147%2C188%2C0.49&t=hl5vKuWsaO04ga46-1&scaling=scale-down-width&starting-point-node-id=39%3A6&mode=design).
 
 ## Demonstration
 
-To access our project playlist, click [here](#):
+To access our project playlist, click [here](https://www.youtube.com/watch?v=-L3xjt2aHUY&list=PLUOBqJKbljZvDd8dOXBFlEHLtTTWCrRLk):
 
-[<img src="" width="60%" height="60%">](# "pop demonstration video")
-
-## User Manual
-
-![ALERTA](https://github.com/beamedeiros/bertoti/assets/74321890/b90c3f94-83ca-4791-8756-d1c33794c1d4) Para acessar o manual do usuário, clique [aqui](#).
+[<img src="https://www.youtube.com/watch?v=-L3xjt2aHUY&list=PLUOBqJKbljZvDd8dOXBFlEHLtTTWCrRLk" width="60%" height="60%">](# "pop demonstration video")
 
 ## Sprint Epic
 
@@ -55,24 +51,24 @@ To access our project playlist, click [here](#):
 
 ## Product Backlog
 
-- [ ] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 1:**  Basic Features
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Data Integrity Assessment
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Treatment of Evaluated Data
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Implementation of LGPD Rules
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Implementation of Relational DDL
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Relational Database Modeling
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) ETL configuration
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Study for the Creation of the QGIS Plugin
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Back - Creation of the Model for Communication with the Database
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Back - Endpoint Implementation
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Front - Login Page
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Front - Mapping screen
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Back - Creation of Endpoints
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Front - API Consumption
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Creating StatefulSet PostGIS
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) AKS Cluster Configuration
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Github Actions Pipeline
-- [ ] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Helm Chart Configuration
+- [X] ![Epic](https://user-images.githubusercontent.com/89356780/229957736-64a40537-3607-421a-afdd-e581db9e55ea.svg) **SPRINT 1:**  Basic Features
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Data Integrity Assessment
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Treatment of Evaluated Data
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Implementation of LGPD Rules
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Implementation of Relational DDL
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Relational Database Modeling
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) ETL configuration
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Study for the Creation of the QGIS Plugin
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Back - Creation of the Model for Communication with the Database
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Back - Endpoint Implementation
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Front - Login Page
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Front - Mapping screen
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Back - Creation of Endpoints
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Front - API Consumption
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Creating StatefulSet PostGIS
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) AKS Cluster Configuration
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Github Actions Pipeline
+- [X] ![Story](https://user-images.githubusercontent.com/89356780/229957815-ea747c93-b861-40c7-8a2d-bc43c1b2973a.svg) Helm Chart Configuration
 
 ## Technologies
 
@@ -94,7 +90,7 @@ For more information[^2], click [here](https://github.com/DolphinDatabase/POP/wi
 | Date | Event |
 | -------| --------- |
 | 21/08 a 25/08 | Kick-off. |
-| 04/09 a 24/09 | [Sprint 1](#) |
+| 04/09 a 24/09 | [Sprint 1](https://github.com/DolphinDatabase/POP/blob/main/Sprints/Sprint1.md) |
 | 03/04 a 23/04 | [Sprint 2](#) |
 | 24/04 a 14/05 | [Sprint 3](#) |
 | 15/05 a 04/06 | [Sprint 4](#) |
