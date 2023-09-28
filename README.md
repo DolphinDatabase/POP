@@ -90,10 +90,10 @@ For more information[^2], click [here](https://github.com/DolphinDatabase/POP/wi
 | -------| --------- |
 | 21/08 a 25/08 | Kick-off. |
 | 04/09 a 24/09 | [Sprint 1](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT1.md) |
-| 03/04 a 23/04 | [Sprint 2](#) |
-| 24/04 a 14/05 | [Sprint 3](#) |
-| 15/05 a 04/06 | [Sprint 4](#) |
-| 13/06 e 14/06 | Solutions Fair |
+| 25/09 a 15/10 | [Sprint 2](#) |
+| 16/10 a 05/11 | [Sprint 3](#) |
+| 06/11 a 26/11 | [Sprint 4](#) |
+| 12/12 | Solutions Fair |
 
 [^1]: Video produced and edited by the members of the group.
 [^2]: Team responsible for API development
