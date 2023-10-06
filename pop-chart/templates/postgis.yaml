@@ -3,7 +3,7 @@ kind: StatefulSet
 metadata:
   name: postgis
 spec:
-  serviceName: postgis-service
+  serviceName: postgis-service-cip
   replicas: 1
   selector:
     matchLabels:

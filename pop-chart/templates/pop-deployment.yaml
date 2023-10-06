@@ -1,0 +1,29 @@
+apiVersion: v1
+kind: Deployment
+metadata:
+  name: pop-deployment
+  labels:
+    app: pop-app
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: pop-pod
+
+  template:
+    metadata:
+      labels:
+        app: pop-pod
+    spec:
+      containers:
+      - name: frontend
+        image: dolphindatabase/visiona-front:0.0.1
+        ports:
+          - containerPort: 80
+      - name: backend
+        image: dolphindatabase/visiona-back:0.0.1
+        ports:
+          - containerPort: 5050
+        env:
+          - name: DATABASE_URL
+            value: postgresql://postgres:root@postgis-service-cip:5432/pop
