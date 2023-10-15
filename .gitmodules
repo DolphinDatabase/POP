@@ -4,3 +4,6 @@
 [submodule "POP-backend"]
 	path = POP-backend
 	url = https://github.com/DolphinDatabase/POP-backend
+[submodule "POP-QGisPlugin"]
+	path = POP-QGisPlugin
+	url = https://github.com/DolphinDatabase/POP-QGisPlugin
