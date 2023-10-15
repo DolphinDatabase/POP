@@ -11,7 +11,7 @@ The objective of this sprint was to add validations to the input fields, a help 
   
 ## Story Cards
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/POP/assets/74321890/09092d3e-26dc-43e4-ba87-6ab574e82f86"/>
+  <img src="https://github.com/DolphinDatabase/POP/assets/74321890/7607e02c-c11f-41c5-a56a-3d0d58811bf0"/>
 </p>
 
 ## Developed Features
