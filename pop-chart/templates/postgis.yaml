@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: postgis
-          image: postgis/postgis:11-3.3
+          image: dolphindatabase/postgis-visiona:1.0.0
           ports:
             - containerPort: 5432
           envFrom:
