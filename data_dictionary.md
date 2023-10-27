@@ -1,6 +1,6 @@
 # Data Dictionary
 
-## Summary
+## Table of Contents
 
 - [Data Dictionary](#data-dictionary)
   - [Summary](#summary)
