@@ -1,6 +1,21 @@
 ## User Manual
 
-### Admin user
+## Table of Contents
+
+- [Table of Contents](#table-of-contents)
+- [Admin User](#admin-user)
+  - [Home Page](#home-page)
+    - [Login](#login)
+  - [Terms Page](#terms-page)
+- [Ordinary User](#ordinary-user)
+  - [Home Page](#home-page)
+    - [Register](#register)
+    - [Login](#login)
+  - [Map Page](#map_page)
+    - [Mapping Details](#mapping-details)
+    - [Account Details](#account-details)
+
+### Admin User
 
 Credentials:
 
@@ -86,7 +101,7 @@ Enter the information you registered in the previous step:
 
 ### Map Page
 
-#### Mapping details:
+#### Mapping Details:
 
 ##### Step 1:
 
@@ -104,7 +119,7 @@ Click on the plots to find out information about:
 
 <img src="https://github.com/DolphinDatabase/POP/assets/74321890/61f453c3-2785-44ef-b602-aab129545604" width=500px/>
 
-#### Account details:
+#### Account Details:
 
 Access your data
 
