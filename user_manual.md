@@ -1,5 +1,62 @@
 ## User Manual
 
+### Admin user
+
+Credentials:
+
+```
+email: adm@email.com
+password: 123456
+```
+
+### Home Page
+
+#### Login
+
+##### Step 1:
+
+Enter the information you registered in the previous step:
+
+- Name
+- Password
+
+<img src="https://github.com/DolphinDatabase/POP/assets/74321890/d31000b7-119a-41a2-a9cc-0823ab1d4d00" />
+
+### Terms Page
+
+##### Step 1:
+
+As an admin user you will have access to:
+
+- User terms
+- Owner terms
+
+You will be able to access these terms in the left sidebar:
+
+<img src="https://github.com/DolphinDatabase/POP/assets/74321890/8c100d8a-783c-493b-aba1-29c3a7110624" />
+
+##### Step 2:
+
+Update or cancel edits to terms in a practical way!
+
+<img src="https://github.com/DolphinDatabase/POP/assets/74321890/2e30de19-1eae-4eae-9d77-35ce20c58788" width=400px/>
+
+##### Step 3:
+
+By clicking continue you can:
+
+- Add
+- Edit
+- Delete params
+
+Which will be used to facilitate transparency and user protection.
+
+<img src="https://github.com/DolphinDatabase/POP/assets/74321890/d0ac5ea9-ee8e-4590-b994-9a38b2d79744" />
+
+---
+
+### Ordinary User
+
 ### Home Page
 
 #### Register
