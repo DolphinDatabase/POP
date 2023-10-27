@@ -5,13 +5,13 @@
 - [Table of Contents](#table-of-contents)
 - [Admin User](#admin-user)
   - [Home Page](#home-page)
-    - [Login](#login)
+    - [Login Admin](#login-admin)
   - [Terms Page](#terms-page)
 - [Ordinary User](#ordinary-user)
   - [Home Page](#home-page)
     - [Register](#register)
     - [Login](#login)
-  - [Map Page](#map_page)
+  - [Map Page](#map-page)
     - [Mapping Details](#mapping-details)
     - [Account Details](#account-details)
 
@@ -26,7 +26,7 @@ password: 123456
 
 ### Home Page
 
-#### Login
+#### Login Admin
 
 ##### Step 1:
 
