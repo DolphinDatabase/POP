@@ -1,38 +1,35 @@
 apiVersion: apps/v1
 kind: StatefulSet
 metadata:
-  name: postgis
+  name: cassandra
 spec:
-  serviceName: postgis-service-cip
+  serviceName: cassandra-service-cip
   replicas: 1
   selector:
     matchLabels:
-      app: postgis
+      app: cassandra
   template:
     metadata:
       labels:
-        app: postgis
+        app: cassandra
     spec:
       containers:
-        - name: postgis
-          image: dolphindatabase/postgis-visiona:1.0.1
+        - name: cassandra
+          image: cassandra
           ports:
-            - containerPort: 5432
-          envFrom:
-            - configMapRef:
-                name: postgres-env        
+            - containerPort: 9042     
           volumeMounts:
-            - name: postgresql-db-disk
+            - name: cassandra-db-disk
               mountPath: /data
       volumes:
-        - name: postgresql-db-disk
+        - name: cassandra-db-disk
           persistentVolumeClaim:
-            claimName: postgresql-db-disk
+            claimName: cassandra-db-disk
 ---
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
-  name: postgresql-db-disk
+  name: cassandra-db-disk
 spec:
   accessModes:
     - ReadWriteOnce
