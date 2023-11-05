@@ -107,7 +107,6 @@ To access our project playlist, click [here](https://www.youtube.com/watch?v=-L3
  - Victor Cavichioli (SM)
  - Pedro Motta (DEV)
  - Hamilton Zanini (DEV)
- - Marcos Calixto (DEV)
  
 For more information[^2], click [here](https://github.com/DolphinDatabase/POP/wiki/Development-Team).
 
