@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-## Sprint 2
+## Sprint 3
 
 <p align="justify">
 The objective of this sprint was to focus on the user term, so that they are aware of our site's policy and to create an ndvi prediction model so that it is possible to observe these details about the plots.
