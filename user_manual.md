@@ -116,8 +116,9 @@ Click on the plots to find out information about:
 - Entrepreneurship
 - Cultivation
 - Planting
+- Graph with ndvi prediction
 
-<img src="https://github.com/DolphinDatabase/POP/assets/74321890/61f453c3-2785-44ef-b602-aab129545604" width=500px/>
+<img src="https://github.com/DolphinDatabase/POP/assets/74321890/8f966297-9d1c-44e5-aad8-f269cd4c0e72" width=500px/>
 
 #### Account Details:
 
@@ -134,3 +135,9 @@ Go to settings:
 Edit and delete your data with ease.
 
 <img src="https://github.com/DolphinDatabase/POP/assets/74321890/963c364d-c3a3-4b92-8365-433c20d3d495" width=300px/>
+
+##### Step 3:
+
+Access the terms and conditions to change your choice.
+
+<img src="https://github.com/DolphinDatabase/POP/assets/74321890/05b79282-9473-4db1-bb49-aec9d3691ff6" />
