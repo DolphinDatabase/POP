@@ -11,7 +11,7 @@ The objective of this sprint was to focus on the user term, so that they are awa
   
 ## Story Cards
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/POP/assets/74321890/7607e02c-c11f-41c5-a56a-3d0d58811bf0"/>
+  <img src="https://github.com/DolphinDatabase/POP/assets/74321890/d5f235ae-576d-48b5-8e53-72521cb5bc9e"/>
 </p>
 
 ## Developed Features
