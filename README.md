@@ -45,8 +45,8 @@ To access our project playlist, click [here](https://www.youtube.com/watch?v=-L3
 | Sprint | Epic |
 | -------| --------- |
 | Sprint 1 | DevOps, Data treatment, Database settings, Land mapping |
-| Sprint 2 | Land mapping in QGIS, Time series |
-| Sprint 3 | Time series in QGIS |
+| Sprint 2 | Land mapping in QGIS, User details |
+| Sprint 3 | Time series, Terms for users |
 | Sprint 4 | App |
 
 ## Product Backlog
