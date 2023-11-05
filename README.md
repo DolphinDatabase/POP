@@ -118,7 +118,7 @@ For more information[^2], click [here](https://github.com/DolphinDatabase/POP/wi
 | 21/08 a 25/08 | Kick-off. |
 | 04/09 a 24/09 | [Sprint 1](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT1.md) |
 | 25/09 a 15/10 | [Sprint 2](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT2.md) |
-| 16/10 a 05/11 | [Sprint 3](#) |
+| 16/10 a 05/11 | [Sprint 3](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT3.md) |
 | 06/11 a 26/11 | [Sprint 4](#) |
 | 12/12 | Solutions Fair |
 
