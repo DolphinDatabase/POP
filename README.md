@@ -4,7 +4,7 @@
 </div>
 <br/>
 
-![Badge](https://img.shields.io/badge/STATUS-IN_PROGREES-yellow?style=flat-square&logo=)
+![Badge](https://img.shields.io/badge/STATUS-DONE-green?style=flat-square&logo=)
 
 ## Table of Contents
 
