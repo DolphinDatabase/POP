@@ -11,7 +11,7 @@ The objective of this sprint was to create a database backup following LGPD laws
   
 ## Story Cards
 <p align="center">
-  <img src="https://github.com/DolphinDatabase/POP/assets/74321890/d5f235ae-576d-48b5-8e53-72521cb5bc9e"/>
+  <img src="https://github.com/DolphinDatabase/POP/assets/74321890/28b166aa-e48c-47a0-ac61-7f3778096075"/>
 </p>
 
 ## Developed Features
