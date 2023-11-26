@@ -125,7 +125,7 @@ For more information[^2], click [here](https://github.com/DolphinDatabase/POP/wi
 | 04/09 a 24/09 | [Sprint 1](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT1.md) |
 | 25/09 a 15/10 | [Sprint 2](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT2.md) |
 | 16/10 a 05/11 | [Sprint 3](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT3.md) |
-| 06/11 a 26/11 | [Sprint 4](#) |
+| 06/11 a 26/11 | [Sprint 4](https://github.com/DolphinDatabase/POP/blob/main/Sprints/SPRINT4.md) |
 | 12/12 | Solutions Fair |
 
 [^1]: Video produced and edited by the members of the group.
